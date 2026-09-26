@@ -1,0 +1,28 @@
+{
+  "name": "projeto-front-end",
+  "version": "1.0.0",
+  "description": "Site desenvolvido como projeto de estudo, utilizando HTML, CSS e JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcadetedev/projeto-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/williamcadetedev/projeto-front-end/issues"
+  },
+  "homepage": "https://github.com/williamcadetedev/projeto-front-end#readme",
+  "devDependencies": {
+    "clean-css": "^5.3.3",
+    "html-minifier-terser": "^7.2.0",
+    "rollup": "^4.63.5",
+    "terser": "^5.51.2"
+  }
+}
