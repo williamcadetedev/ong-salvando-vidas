@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node build.mjs"
+    "build": "node build.mjs",
+    "prebuild": "node otimizar-imagens.mjs"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "clean-css": "^5.3.3",
     "html-minifier-terser": "^7.2.0",
     "rollup": "^4.63.5",
+    "sharp": "^0.35.4",
     "terser": "^5.51.2"
   }
 }
