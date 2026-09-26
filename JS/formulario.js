@@ -33,8 +33,6 @@ function validarCpf(cpf) {
     return segundoDigito === Number(numeros[10]);
 }
 
-    // A verificação dos dois últimos dígitos será adicionada aqui.
-
 export function configurarFormulario() {
     const formulario = document.querySelector("#form-cadastro");
     const toast = document.querySelector("#toast");

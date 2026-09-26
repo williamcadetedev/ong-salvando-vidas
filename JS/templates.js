@@ -153,3 +153,4 @@ const projetos = [
         descricao: "Realizamos campanhas de arrecadação de alimentos, roupas e outros itens essenciais para pessoas em situação de vulnerabilidade."
     }
 ];
+
