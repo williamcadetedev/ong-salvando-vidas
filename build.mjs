@@ -74,4 +74,20 @@ await cp("imagens", "producao/imagens", {
     recursive: true
 });
 
+// Cria a entrada principal do site.
+await writeFile(
+    "producao/index.html",
+    `<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0;url=html/index.html">
+    <title>Salvando Vidas</title>
+</head>
+<body>
+    <a href="html/index.html">Entrar no site Salvando Vidas</a>
+</body>
+</html>`
+);
+
 console.log("Versão de produção criada com sucesso!");
