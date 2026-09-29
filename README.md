@@ -3,7 +3,8 @@
 Site desenvolvido como projeto de estudo, utilizando HTML, CSS e JavaScript.
 
 ## Prévia do projeto
-<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/7f002e68-c735-4409-9701-47512d3d2fb1" />
+<img width="1918" height="938" alt="image" src="https://github.com/user-attachments/assets/73129604-3eee-4d45-bb97-fe56b2bbbb1b" />
+
 
 
 ## Funcionalidades
