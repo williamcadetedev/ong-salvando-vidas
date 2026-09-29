@@ -1,4 +1,4 @@
-# Projeto Front-end
+# ONG Salvando Vidas
 
 Site desenvolvido como projeto de estudo, utilizando HTML, CSS e JavaScript.
 
