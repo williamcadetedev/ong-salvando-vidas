@@ -2,6 +2,10 @@
 
 Site desenvolvido como projeto de estudo, utilizando HTML, CSS e JavaScript.
 
+## Prévia do projeto
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/7f002e68-c735-4409-9701-47512d3d2fb1" />
+
+
 ## Funcionalidades
 
 - Navegação entre início, projetos e cadastro.
