@@ -89,5 +89,6 @@ await writeFile(
 </body>
 </html>`
 );
-
+await cp("JS/tema.js", "producao/JS/tema.js");
+2.
 console.log("Versão de produção criada com sucesso!");
